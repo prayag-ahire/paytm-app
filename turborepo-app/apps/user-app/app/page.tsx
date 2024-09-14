@@ -1,4 +1,4 @@
-import { PrismaClient } from "@repo/db/client";
+// import { PrismaClient } from "@repo/db/client";
 
 export default function Home() {
   return (
